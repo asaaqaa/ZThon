@@ -1,6 +1,6 @@
-FROM zed-thon/zelzal:slim-buster
+FROM asaaqaa/X-tra-Telegram:slim-buster
 
-RUN git clone https://github.com/Zed-Thon/Zelzal.git /root/userbot
+RUN git clone https://github.com/asaaqaa/X-tra-Telegram.git /root/userbot
 
 WORKDIR /root/userbot
 
